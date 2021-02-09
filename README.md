@@ -27,10 +27,10 @@ réseaux de neurones.
 **Schikit Learn** : [https://scikit-learn.org/]
 
 ## Les algorithmes utilises
-> linear regression
-> logistic regression
-> dicision Trees
-> Neural network
+>  linear regression
+>  logistic regression
+>  dicision Trees
+>  Neural network
 
 
 
