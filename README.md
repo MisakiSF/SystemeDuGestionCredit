@@ -22,7 +22,7 @@ réseaux de neurones.
 ## outils de travail
 **GOOGLE COLLAB** : [https://colab.research.google.com/]
 
-##Librairies
+## Librairies
 **TENSERFLOW** : [https://www.tensorflow.org/]
 **Schikit Learn** : [https://scikit-learn.org/]
 
