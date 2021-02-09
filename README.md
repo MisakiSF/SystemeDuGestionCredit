@@ -20,11 +20,11 @@ régression logistique, K plus proches Voisins, Arbres de décision, ainsi que l
 réseaux de neurones.
 
 ## outils de travail
-**GOOGLE COLLAB** : [https://colab.research.google.com/]
+- **GOOGLE COLLAB** : [https://colab.research.google.com/]
 
 ## Librairies
-**TENSERFLOW** : [https://www.tensorflow.org/]
-**Schikit Learn** : [https://scikit-learn.org/]
+- **TENSERFLOW** : [https://www.tensorflow.org/]
+- **Schikit Learn** : [https://scikit-learn.org/]
 
 ## Les algorithmes utilises
 - linear regression
